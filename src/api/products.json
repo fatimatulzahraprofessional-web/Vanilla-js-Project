@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Mini Pound Cakes",
+    "category": "Cakes",
+    "brand": "Bake-it-Up",
+    "price": 799,
+    "stock": 50,
+    "description": "Deliciously soft and buttery mini pound cakes — perfect for tea time or gifting, baked fresh with love.",
+    "image": "/images/cupcakesred.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Classic Cupcakes",
+    "category": "Cupcakes",
+    "brand": "Bake-it-Up",
+    "price": 449,
+    "stock": 100,
+    "description": "Fluffy vanilla cupcakes topped with smooth buttercream frosting. A timeless treat for every sweet tooth.",
+    "image": "/images/cupcakes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Assorted Macarons",
+    "category": "Pastries",
+    "brand": "Bake-it-Up",
+    "price": 149,
+    "stock": 30,
+    "description": "Colorful, delicate macarons with crisp shells and creamy fillings — a French classic in every bite.",
+    "image": "/images/muffins.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Celebration Cake",
+    "category": "Cakes",
+    "brand": "Bake-it-Up",
+    "price": 1199,
+    "stock": 20,
+    "description": "A beautifully decorated layered cake, perfect for birthdays, anniversaries, or any special occasion.",
+    "image": "/images/cake.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fresh Pastries",
+    "category": "Pastries",
+    "brand": "Bake-it-Up",
+    "price": 249,
+    "stock": 30,
+    "description": "A delightful selection of crisp, flaky pastries — perfect for breakfast or a light dessert.",
+    "image": "/images/pastries.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Glazed Donuts",
+    "category": "Donuts",
+    "brand": "Bake-it-Up",
+    "price": 349,
+    "stock": 20,
+    "description": "Soft, airy donuts coated in a smooth vanilla glaze — a sweet classic everyone loves.",
+    "image": "/images/donut.jpg"
+  }
+]
